@@ -10,6 +10,8 @@ Route::get('borrar/{id?}', 'PostController@getBorrar');
 Route::post('crear', 'PostController@crearPost');
 Route::post('editar', 'PostController@postEditar');
 
+### RUTAS ANY
+
 # DEFINIMOS RUTAS WEB
 # Hay que hacer referencia a la clase
 /*
