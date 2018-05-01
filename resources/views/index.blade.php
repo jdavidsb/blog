@@ -33,6 +33,6 @@
       </div>
     </div>
   @empty
-    <h1 class="display-4">No hay entradas para mostrar</h1>
+    <h1 class="display-4">No hay entradas disponibles</h1>
   @endforelse
 @endsection
